@@ -15,7 +15,7 @@
 
 <h2>About Me 💬</h2>
 
-<img width="35%" align="right" alt="Taurus" src="https://i.pinimg.com/736x/0e/a0/29/0ea029b94f78fccc35999b28bd689027.jpg" />
+<img width="35%" align="right" alt="Taurus" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsfk7Ubmu5suXlMCYn3xyWnhoGfKf2x1Msw&usqp=CAU" />
 
 
 - 🔭 I’m currently working on **Backend Development and DevOps**

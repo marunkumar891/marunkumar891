@@ -15,7 +15,7 @@
 
 <h2>About Me 💬</h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="35%" align="right" alt="Taurus" src="https://i.pinimg.com/736x/0e/a0/29/0ea029b94f78fccc35999b28bd689027.jpg" />
 
 
 - 🔭 I’m currently working on **Backend Development and DevOps**
@@ -52,5 +52,5 @@
 <a href = 'https://github.com/marunkumar891'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
 <hr/>
-<h3>Muchas Gracias..</h3>
+<h3>Muchas Gracias..!</h3>
 

@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **Blockchain Technology** 
 
-- 👯 I’m looking to collaborate on **anything interesting**
+- 👯 Looking forward to work with **like minded developers**
 
 - ⚡ Note: **Where it starts , There it ends!**
 

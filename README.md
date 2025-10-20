@@ -18,13 +18,13 @@
 <img width="35%" align="right" alt="Taurus" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUsfk7Ubmu5suXlMCYn3xyWnhoGfKf2x1Msw&usqp=CAU" />
 
 
-- 🔭 I’m currently working on **Backend Development and DevOps**
+- 🔭 I’m currently working on **Backend Development and DevOps technologies**
 
-- 🌱 I’m currently learning **Blockchain Technology** 
+- 🌱 Also upskilling on **Frontend Technology** 
 
 - 👯 Looking forward to work with **like minded developers**
 
-- ⚡ Note: **Where it starts , There it ends!**
+- ⚡ **Where it starts , There it ends!**
 
 <h2> Skills </h2>
 <!--<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>-->
